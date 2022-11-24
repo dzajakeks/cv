@@ -1,1 +1,0 @@
-// const header__doctype = document.getElementById('header__doctype').innerText = '<!DOCTYPE html>'
