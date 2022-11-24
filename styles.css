@@ -36,7 +36,6 @@ body {
 .main__container-numbers {
     padding: 0 .6em;
     text-align: end;
-    border: 1px solid lime;
 }
 
 .arrows-color {
